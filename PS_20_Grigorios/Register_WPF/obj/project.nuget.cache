@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U5a15JfbogIV+ddFMEgB7JjZ1V5dPBMuvkT3oYRK+k2JEIdWEkuRpixg9iSPZboYB0AoS2ltX69zChq2YGMziQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jerryrebuild\\source\\repos\\PS_20_Grigorios\\Register_WPF\\Register_WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jerryrebuild\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}
