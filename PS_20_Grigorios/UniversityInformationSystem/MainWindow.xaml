@@ -1,0 +1,15 @@
+﻿<Window x:Class="UniversityInformationSystem.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="University Information System" Height="450" Width="800">
+    <Grid>
+        <ListView ItemsSource="{Binding Courses}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Course ID" DisplayMemberBinding="{Binding CourseId}" />
+                    <GridViewColumn Header="Title" DisplayMemberBinding="{Binding Title}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>
